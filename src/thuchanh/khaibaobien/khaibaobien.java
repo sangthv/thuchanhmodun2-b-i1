@@ -1,4 +1,4 @@
-package thuchanh;
+package thuchanh.khaibaobien;
 
 public class khaibaobien {
     public static void main(String[] args) {
